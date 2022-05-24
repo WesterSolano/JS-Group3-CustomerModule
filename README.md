@@ -1,2 +1,2 @@
 # JS-Group3-CustomerModule
-Interfax grafica del modulo de clientes.
+Interfaz grafica del modulo de clientes.
